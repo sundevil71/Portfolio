@@ -30,6 +30,3 @@
 **Business Analyst @Arizona State University (Grey-Box) (_September 2024 - Present_)** 
 - Developing an AI-powered tool to improve Wikipedia translations for under-represented languages, using semantic understanding and translation engines to enhance content accessibility
 
-## Let's Connect!
-Feel free to reach out via [email](mailto:sharathcvijay@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/sharathchandra-rv/)
-
