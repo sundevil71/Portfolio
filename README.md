@@ -1,13 +1,13 @@
-<h1 align="center" style="color: #00008B;">Sharath Chandra Vijayakumar</h1>
-<p align="center">
-  <a href="https://linkedin.com/in/sharathchandra-rv/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>&nbsp;&nbsp;
-  <a href="mailto:sharathcvijay@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a>
-</p>
-
 ## About Me
 - 6.5 years of work experience as a **Senior Analyst** at Accenture & LTIMindtree, Bangalore, India
 - Master of Science in **Information Systems Management (MIS)** from W.P. Carey School of Business, Arizona State University, Tempe, USA
 - Bachelor of Engineering in **Information Science** from JSS Academy of Technical Edcuation, Banglore, India
+
+## Let's Connect
+<p align="Left">
+  <a href="https://linkedin.com/in/sharathchandra-rv/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="mailto:sharathcvijay@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a>
+</p>
 
 ## Skills & Tools
 - **Programming Languages & Frameworks**: Core Java, JavaScript, Python, SQL, HTML/CSS, Spring MVC, Rest API & Flask
