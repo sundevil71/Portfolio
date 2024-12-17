@@ -1,4 +1,4 @@
-tile: Sharath Chandra Vijayakumar      
-logo: image/Headshot.jpeg
-##show_downloads: true
+title: Sharath Chandra Vijayakumar
+logo: /assets/img/headshot_circle.png
+show_downloads: true
 theme: jekyll-theme-minimal
