@@ -1,4 +1,31 @@
-# Sharath Chandra Vijayakumar, He/Him
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ site.title }}</title>
+</head>
+<body>
+  <header>
+    <h1 align="center">{{ site.title }}</h1>
+
+    <!-- Connect Section with Email and LinkedIn Links -->
+    <p align="center">
+      <a href="{{ site.connect_linkedin }}">
+        <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
+      </a>&nbsp;&nbsp;
+      <a href="{{ site.connect_email }}">
+        <img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail">
+      </a>
+    </p>
+  </header>
+  
+  <main>
+    {{ content }}
+  </main>
+</body>
+</html>
 
 ## About Me
 - 6.5 years of work experience as a **Senior Analyst** at Accenture & LTIMindtree, Bangalore, India
