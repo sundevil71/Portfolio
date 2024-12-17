@@ -1,4 +1,4 @@
-<h1 align="center">Sharath Chandra Vijayakumar</h1>
+<h1 align="center" style="color: blue;">Sharath Chandra Vijayakumar</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/sharathchandra-rv/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>&nbsp;&nbsp;
