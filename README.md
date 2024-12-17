@@ -3,12 +3,6 @@
 - Master of Science in **Information Systems Management (MIS)** from W.P. Carey School of Business, Arizona State University, Tempe, USA
 - Bachelor of Engineering in **Information Science** from JSS Academy of Technical Edcuation, Banglore, India
 
-## Let's Connect
-<p align="Left">
-  <a href="https://linkedin.com/in/sharathchandra-rv/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>&nbsp;&nbsp;
-  <a href="mailto:sharathcvijay@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a>
-</p>
-
 ## Skills & Tools
 - **Programming Languages & Frameworks**: Core Java, JavaScript, Python, SQL, HTML/CSS, Spring MVC, Rest API & Flask
 - **Methodology & Practices**: Business Process Modeling, SDLC, Agile, DevOps, PMBOK, BABOK, TDD & Manual Testing
@@ -33,4 +27,10 @@
 ## Volunteer Experience
 **Business Analyst @Arizona State University (Grey-Box) (_September 2024 - Present_)** 
 - Developing an AI-powered tool to improve Wikipedia translations for under-represented languages, using semantic understanding and translation engines to enhance content accessibility
+
+## Let's Connect
+<p align="Centre">
+  <a href="https://linkedin.com/in/sharathchandra-rv/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="mailto:sharathcvijay@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a>
+</p>
 
