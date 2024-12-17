@@ -1,16 +1,4 @@
+tile:          
 logo: image/Headshot.jpeg
-email: sharathcvijay@gmail.com
+##show_downloads: true
 theme: jekyll-theme-minimal
-
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jemoji
-
-platforms:
-  - name: GitHub
-    icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/sundevil71
-  - name: LinkedIn
-    icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/sharathchandra-rv
