@@ -16,19 +16,19 @@
 
 ## Work Experience
 **Senior Analyst @ Accenture (_September 2021 - July 2023_)**
-- Managed enhancements to a Java-based web application designed to simplify user application processes and determine eligibility for 6+ public assistance programs.
+- Managed enhancements to a Java-based web application designed to simplify user application processes and determine eligibility for 6+ public assistance programs
 
 **Senior Software Enginner @ Larsent & Toubro Infotech (LTIMindtree) (_August 2016 - August 2021_)**
-- Optimized system development and improved rule execution accuracy at Travelers Insurance by leading underwriting initiatives, enhancing rule-based decision management systems, and driving process improvements.
+- Optimized system development and improved rule execution accuracy at Travelers Insurance by leading underwriting initiatives, enhancing rule-based decision management systems, and driving process improvements
 
 ## Academic Projects 
-- **Social Media Analytics**: Performed sentiment analysis on over 20,000 reddit comments using hugging face transformers and NLP techniques.
-- **Predictive Modeling for Credit Card Default Risk Assessment**: Utilizing machine learning models to forecast credit card default risk with high accuracy.
-- **World Happiness Index Visualization Project**: Analyzed global geospatial and temporal data, creating visual stories that engaged over 1M people and highlighted world dynamics.
+- **Social Media Analytics**: Performed sentiment analysis on over 20,000 reddit comments using hugging face transformers and NLP techniques
+- **Predictive Modeling for Credit Card Default Risk Assessment**: Utilizing machine learning models to forecast credit card default risk with high accuracy
+- **World Happiness Index Visualization Project**: Analyzed global geospatial and temporal data, creating visual stories that engaged over 1M people and highlighted world dynamics
 
 ## Volunteer Experience
 **Business Analyst @Arizona State University (Grey-Box) (_September 2024 - Present_)** 
-- Developing an AI-powered tool to improve Wikipedia translations for under-represented languages, using semantic understanding and translation engines to enhance content accessibility.
+- Developing an AI-powered tool to improve Wikipedia translations for under-represented languages, using semantic understanding and translation engines to enhance content accessibility
 
 ## Let's Connect!
 Feel free to reach out via [email](mailto:sharathcvijay@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/sharathchandra-rv/)
